@@ -1,3 +1,4 @@
+<img align="center" src="https://www.arduino.cc/en/uploads/Trademark/ArduinoCommunityLogo.png" height="300"/>
 <h2>Hey 👋, I'm Anukul Anand</h2>
 
 <br />
